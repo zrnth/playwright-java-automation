@@ -38,8 +38,10 @@ The following users are tested in a loop:
 
 Follow these steps to run the test suite locally (in the terminal).
 
-#1 
+ 
+```
 
+#1
 git clone https://github.com/zrnth/playwright-java-automation.git
 cd playwright-java-automation
 
@@ -60,7 +62,7 @@ npx playwright test
 npx playwright show-report
 
 ---
-
+```
 
 
 
