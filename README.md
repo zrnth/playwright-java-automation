@@ -33,6 +33,38 @@ The following users are tested in a loop:
 
 ---
 
+
+## How to Run the Project ##
+
+Follow these steps to run the test suite locally (in the terminal).
+
+#1 
+
+git clone https://github.com/zrnth/playwright-java-automation.git
+cd playwright-java-automation
+
+
+#2
+npm install
+
+
+#3
+npx playwright install
+
+
+#4
+npx playwright test
+
+
+#5
+npx playwright show-report
+
+---
+
+
+
+
+
 ## Notes (Important)
 - I intentionally kept everything in **one file** to keep it simple.
 - 500ms timeouts were added so I could visually confirm each action.
