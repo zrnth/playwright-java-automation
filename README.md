@@ -1,7 +1,7 @@
 # Playwright Automation Project – SauceDemo
 
 ## Introduction
-This is a simple Playwright automation project that I built step by step while learning web automation.  
+This is a simple Playwright automation project that I built step by step while completing a web automation task.  
 The goal was to automate the SauceDemo website by following one basic flow for all 6 users provided on the website.
 
 
@@ -52,9 +52,9 @@ npx playwright test
 
 npx playwright show-report
 
----
-```
 
+```
+---
 
 
 
