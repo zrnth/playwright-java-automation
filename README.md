@@ -41,24 +41,15 @@ Follow these steps to run the test suite locally (in the terminal).
  
 ```
 
-#1
 git clone https://github.com/zrnth/playwright-java-automation.git
 cd playwright-java-automation
 
-
-#2
 npm install
 
-
-#3
 npx playwright install
 
-
-#4
 npx playwright test
 
-
-#5
 npx playwright show-report
 
 ---
