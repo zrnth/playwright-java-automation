@@ -56,7 +56,7 @@ npx playwright show-report
 - I intentionally kept everything in **one file** to keep it simple.
 - 500ms timeouts were added so I could visually confirm each action.
 - Locked-out user fails as expected, so handled in the script.
-- This project is made for my interview preparation, and to show understanding of Playwright basics.
+- This project is made for my self-learning purposes only.
 
 ---
 
